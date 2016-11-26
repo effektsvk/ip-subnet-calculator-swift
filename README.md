@@ -7,4 +7,6 @@ This is my first project which is inspired by some school stuff. It's just a sim
 
 ## Screenshots
 
-<div align="center"><img src="media/Screen Shot 2016-11-22 at 12.51.25.jpg" width="512"></div>
+<div align="center"><img src="media/Screenshot1.jpg" width="512"></div>
+<div align="center"><img src="media/Screenshot2.jpg" width="512"></div>
+<div align="center"><img src="media/Screenshot3.jpg" width="512"></div>
