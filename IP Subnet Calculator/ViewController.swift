@@ -9,6 +9,7 @@
 import UIKit
 
 // Extensions for binary conversions
+
 extension String {
     var binaryToInt: Int { return Int(strtoul(self, nil, 2)) }
 }
